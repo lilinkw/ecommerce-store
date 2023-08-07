@@ -7,7 +7,7 @@ import { CartContext } from "../context/CartContext";
 // import Link from react router dom
 import { Link } from "react-router-dom";
 // import logo
-import Logo from "../logo.svg";
+import Logo from "../img/logo.svg";
 
 const Header = () => {
   // header state
