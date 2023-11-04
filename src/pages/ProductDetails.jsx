@@ -1,4 +1,4 @@
-import React, { PureComponent, useContext } from "react";
+import React, { useContext } from "react";
 // import use params (React Router Dom)
 import { useParams } from "react-router-dom";
 // import cart context
